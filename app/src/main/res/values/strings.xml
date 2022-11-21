@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Test Potatoe</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="reward_points">100 reward points = 1 putatoe credit\n1 putatoe credit = 1 rupee\nCan be reedemed to your bank accunt on amount above ₹ 10,000</string>
+    <string name="add_money">Add Money</string>
+    <string name="transaction_history">NO PAST TRANSACTIONS</string>
+    <string name="reedem_credit_str">Reedem as Credit</string>
+    <string name="send_money_str">Send money to Bank</string>
+    <string name="transaction_str">Transaction</string>
+    <string name="image_description">I dont have that image used in original putatoe app, it will be here</string>
+    <string name="default_balance_value">₹ 0.0</string>
+    <string name="available_balance_str">Available Balance</string>
+    <string name="points_str">500</string>
+    <string name="reward_points_str">Reward Points</string>
+    <string name="transfer_money_str">Transfer Money</string>
+    <string name="title_str">Putatoe Wallet</string>
+    <string name="todo">TODO</string>
+    <string name="action_back">action_back</string>
+    <string name="points_img">points_img</string>
+    <string name="add_money_to_wallet">Add Money to Wallet</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="add">ADD</string>
+    <string name="zero_rupees">₹ 0</string>
+    <string name="close">close</string>
+    <string name="enter_aadhaar_card_number">Enter Aadhaar Card Number</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_your_aadhaar_card_number">Enter your Aadhaar Card Number</string>
+    <string name="no_bank_accounts">No Bank Accounts!</string>
+    <string name="please_add_a_bank_account">Please add a Bank Account</string>
+    <string name="add_a_bank_account">ADD A BANK ACCOUNT</string>
+    <string name="transfer_money">Transfer money</string>
+    <string name="enter_username_or_mobile_number">Enter username or mobile number</string>
+    <string name="username_or_mobile_number">Username or Mobile number</string>
+    <string name="amount">Amount</string>
+    <string name="contacts">contacts</string>
+</resources>
